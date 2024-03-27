@@ -14,4 +14,3 @@ Dataset and Attributes:
  
  Prediction and Cost Efficiency:
  • Predicts stages of heart disease, enhancing diagnostic capabilities.
- • Emphasizes the cost efficiency of the proposed method
